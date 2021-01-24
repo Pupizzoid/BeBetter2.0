@@ -1,0 +1,5 @@
+{
+	"port": 8888,
+	"mongoUri": "mongodb+srv://vita:032915297@cluster0.icc76.mongodb.net/app?retryWrites=true&w=majority",
+	"jwtSecret": "nodejs hw"
+}
